@@ -43,6 +43,10 @@ P, #footer {
     margin-left: 28px;
 }
 
+.footer {
+    font-size: 9px;
+}
+
 .line {
     width: 568px;
     height: 0px;
