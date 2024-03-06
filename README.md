@@ -1,5 +1,5 @@
 ## Projeto
-Site simples de uma empresa de móveis.
+Site de uma empresa de móveis customizados.
 
 ## Tecnologias utilizadas
 - HTML
